@@ -44,11 +44,9 @@ from sklearn.tree import DecisionTreeClassifier
 dt = DecisionTreeClassifier(criterion = "entropy")
 dt.fit(x_train, y_train)
 y_pred = dt.predict(x_test)
-
 from sklearn import metrics
 accuracy = metrics.accuracy_score(y_test,y_pred)
 accuracy
-
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
