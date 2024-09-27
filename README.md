@@ -56,7 +56,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### Accuracy
 
-![image](https://github.com/user-attachments/assets/a65e690f-5abc-4cab-989b-673c9dd990bf)
+![image](https://github.com/user-attachments/assets/b6f3613b-90f6-4338-9b17-2e3933b4c7fa)
+
 
 ### Prediction
 
